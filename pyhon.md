@@ -183,7 +183,7 @@ int main() {
         i++;
     }
 
-    printf("Binary representation: ");
+    printf("In Binary : ");
     
     if (i == 0) {
         printf("0");
